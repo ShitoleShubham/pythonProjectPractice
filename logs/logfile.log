@@ -180,3 +180,29 @@
 2021-06-08 08:43:44,067 :CRITICAL : test_websites :test executed successfully
 2021-06-08 08:43:44,068 :INFO : test_websites :webpage successfully opened
 2021-06-08 08:43:44,068 :INFO : test_websites :webpage successfully opened
+2021-06-08 10:53:35,288 :INFO : test_Google :tests are started
+2021-06-08 10:53:37,019 :INFO : test_Google :tests completed
+2021-06-08 13:49:38,374 :INFO : test_Google :tests are started
+2021-06-08 13:49:40,131 :INFO : test_Google :tests completed
+2021-06-08 13:49:43,350 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:49:43,350 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:49:45,478 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:49:45,478 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:49:45,478 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:49:45,478 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:52:25,227 :INFO : test_Google :tests are started
+2021-06-08 13:52:27,259 :INFO : test_Google :tests completed
+2021-06-08 13:52:31,050 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:52:31,050 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:52:37,974 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:52:37,974 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:52:37,974 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:52:37,974 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:53:10,152 :INFO : test_Google :tests are started
+2021-06-08 13:53:12,841 :INFO : test_Google :tests completed
+2021-06-08 13:53:16,061 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:53:16,061 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:53:22,925 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:53:22,925 :CRITICAL : test_websites :test executed successfully
+2021-06-08 13:53:22,926 :INFO : test_websites :webpage successfully opened
+2021-06-08 13:53:22,926 :INFO : test_websites :webpage successfully opened
