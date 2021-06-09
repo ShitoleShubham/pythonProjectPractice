@@ -206,3 +206,11 @@
 2021-06-08 13:53:22,925 :CRITICAL : test_websites :test executed successfully
 2021-06-08 13:53:22,926 :INFO : test_websites :webpage successfully opened
 2021-06-08 13:53:22,926 :INFO : test_websites :webpage successfully opened
+2021-06-09 12:07:08,147 :INFO : test_Google :tests are started
+2021-06-09 12:07:10,086 :INFO : test_Google :tests completed
+2021-06-09 12:07:16,077 :CRITICAL : test_websites :test executed successfully
+2021-06-09 12:07:16,077 :INFO : test_websites :webpage successfully opened
+2021-06-09 12:07:25,325 :CRITICAL : test_websites :test executed successfully
+2021-06-09 12:07:25,325 :CRITICAL : test_websites :test executed successfully
+2021-06-09 12:07:25,325 :INFO : test_websites :webpage successfully opened
+2021-06-09 12:07:25,325 :INFO : test_websites :webpage successfully opened
