@@ -220,3 +220,11 @@
 2021-06-09 14:32:32,920 :INFO : test_Google :tests completed
 2021-06-15 19:09:16,548 :INFO : test_Google :tests are started
 2021-06-15 19:09:18,780 :INFO : test_Google :tests completed
+2021-06-22 12:05:08,923 :INFO : test_Google :tests are started
+2021-06-22 12:05:11,713 :INFO : test_Google :tests completed
+2021-06-22 12:05:16,916 :CRITICAL : test_websites :test executed successfully
+2021-06-22 12:05:16,916 :INFO : test_websites :webpage successfully opened
+2021-06-22 12:05:24,401 :CRITICAL : test_websites :test executed successfully
+2021-06-22 12:05:24,401 :CRITICAL : test_websites :test executed successfully
+2021-06-22 12:05:24,401 :INFO : test_websites :webpage successfully opened
+2021-06-22 12:05:24,401 :INFO : test_websites :webpage successfully opened
