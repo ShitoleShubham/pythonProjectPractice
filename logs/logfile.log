@@ -236,3 +236,11 @@
 2021-08-17 15:48:41,918 :CRITICAL : test_websites :test executed successfully
 2021-08-17 15:48:41,918 :INFO : test_websites :webpage successfully opened
 2021-08-17 15:48:41,918 :INFO : test_websites :webpage successfully opened
+2021-09-06 22:25:07,474 :INFO : test_Google :tests are started
+2021-09-06 22:25:08,538 :INFO : test_Google :tests completed
+2021-09-06 22:25:11,229 :CRITICAL : test_websites :test executed successfully
+2021-09-06 22:25:11,229 :INFO : test_websites :webpage successfully opened
+2021-09-06 22:25:12,766 :CRITICAL : test_websites :test executed successfully
+2021-09-06 22:25:12,766 :CRITICAL : test_websites :test executed successfully
+2021-09-06 22:25:12,767 :INFO : test_websites :webpage successfully opened
+2021-09-06 22:25:12,767 :INFO : test_websites :webpage successfully opened
