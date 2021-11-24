@@ -244,3 +244,23 @@
 2021-09-06 22:25:12,766 :CRITICAL : test_websites :test executed successfully
 2021-09-06 22:25:12,767 :INFO : test_websites :webpage successfully opened
 2021-09-06 22:25:12,767 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:35:49,246 :INFO : test_Google :tests are started
+2021-09-12 17:35:50,746 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:35:50,747 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:35:51,415 :INFO : test_Google :tests completed
+2021-09-12 17:35:59,101 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:35:59,101 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:36:44,492 :INFO : test_Google :tests are started
+2021-09-12 17:36:46,951 :INFO : test_Google :tests completed
+2021-09-12 17:36:51,036 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:36:51,037 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:36:56,685 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:36:56,685 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:36:56,686 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:36:56,686 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:37:16,230 :INFO : test_Google :tests are started
+2021-09-12 17:37:17,054 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:37:17,054 :INFO : test_websites :webpage successfully opened
+2021-09-12 17:37:19,524 :INFO : test_Google :tests completed
+2021-09-12 17:37:23,750 :CRITICAL : test_websites :test executed successfully
+2021-09-12 17:37:23,750 :INFO : test_websites :webpage successfully opened
