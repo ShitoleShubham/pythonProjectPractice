@@ -264,3 +264,11 @@
 2021-09-12 17:37:19,524 :INFO : test_Google :tests completed
 2021-09-12 17:37:23,750 :CRITICAL : test_websites :test executed successfully
 2021-09-12 17:37:23,750 :INFO : test_websites :webpage successfully opened
+2022-08-05 17:34:15,729 :INFO : test_Google :tests are started
+2022-08-05 17:34:17,266 :INFO : test_Google :tests completed
+2022-08-05 17:34:20,523 :CRITICAL : test_websites :test executed successfully
+2022-08-05 17:34:20,523 :INFO : test_websites :webpage successfully opened
+2022-08-05 17:34:22,789 :CRITICAL : test_websites :test executed successfully
+2022-08-05 17:34:22,789 :CRITICAL : test_websites :test executed successfully
+2022-08-05 17:34:22,789 :INFO : test_websites :webpage successfully opened
+2022-08-05 17:34:22,789 :INFO : test_websites :webpage successfully opened
